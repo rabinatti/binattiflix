@@ -7,7 +7,7 @@ function CadastroCategoria () {
         <PageDefault>
             <h1>Cadastro de Categoria</h1>
             
-            <Link to="/">
+            <Link to="/cadastro/categoria">
                Ir para home
             </Link>
         </PageDefault>
